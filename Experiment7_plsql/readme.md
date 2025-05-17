@@ -1,5 +1,7 @@
 # Experiment 7: PL/SQL – Variables, Control Structures and Loops
 
+# Name: Mahalakshmi R
+# Reg no.: 212223230116
 ## AIM
 To write and execute simple PL/SQL programs using variables, loops, and conditional statements.
 
