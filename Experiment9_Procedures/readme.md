@@ -73,12 +73,14 @@ END;
 ```
 EXEC find_square(6);
 ```
+
 **Expected Output:**  
 Square of 6 is 36
 
 ![image](https://github.com/user-attachments/assets/7f45dc70-6b29-4c03-926b-e8ab4a1fde05)
 
 ---
+
 
 ## 2. Write a PL/SQL Function to Return the Factorial of a Number
 
@@ -108,12 +110,14 @@ BEGIN
    DBMS_OUTPUT.PUT_LINE('Factorial of 5 is ' || get_factorial(5));
 END;
 ```
+
 **Expected Output:**  
 Factorial of 5 is 120
 
 ![image](https://github.com/user-attachments/assets/48269182-26a6-4a64-be72-1d903a8a09dd)
 
 ---
+
 
 ## 3. Write a PL/SQL Procedure to Check Whether a Number is Even or Odd
 
@@ -139,12 +143,14 @@ END;
 ```
 EXEC check_even_odd(12);
 ```
+
 **Expected Output:**  
 12 is Even
 
 ![image](https://github.com/user-attachments/assets/3b4307b7-2fa1-4d4f-81ac-9947938c4359)
 
 ---
+
 
 ## 4. Write a PL/SQL Function to Return the Reverse of a Number
 
@@ -175,12 +181,14 @@ BEGIN
    DBMS_OUTPUT.PUT_LINE('Reversed number of 1234 is ' || reverse_number(1234));
 END;
 ```
+
 **Expected Output:**  
 Reversed number of 1234 is 4321
 
 ![image](https://github.com/user-attachments/assets/f1f612c1-985a-441a-93a4-1c9543bd9dd9)
 
 ---
+
 
 ## 5. Write a PL/SQL Procedure to Display the Multiplication Table of a Number
 
@@ -214,6 +222,7 @@ Multiplication table of 5:
 5 x 10 = 50
 
 ![image](https://github.com/user-attachments/assets/1065ae26-9eff-47c2-9c42-6817b6b272ac)
+
 
 ## RESULT
 Thus, the PL/SQL programs using procedures and functions were written, compiled, and executed successfully.
